@@ -15,3 +15,6 @@ In addition, our website will cater to diverse gardening needs. From specific ti
 Our website will be built using Astro and DaisyUI, these frameworks allow for fast, modular development. They are designed to handle repetitive structures, which will allow our website to dynamically display gardening information that a user needs. 
 
 # Repositories
+
+> `/home` our homepage
+> `/.github` our repository configuration files
