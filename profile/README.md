@@ -17,4 +17,5 @@ Our website will be built using Astro and DaisyUI, these frameworks allow for fa
 # Repositories
 
 > `/home` our homepage
+
 > `/.github` our repository configuration files
