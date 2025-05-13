@@ -6,9 +6,9 @@ Jared Diaz [jdiaz38@ewu.edu](mailto:jdiaz38@ewu.edu)
 
 Ethan Crawford [ecrawford4@ewu.edu](mailto:ecrawford4@ewu.edu) 
 
-# [Visit The Website](https://https://cscd488group3-bloombuddy.netlify.app/)
+### [Visit The Website](https://https://cscd488group3-bloombuddy.netlify.app/)
 
-# Project Description
+### Project Description
 
 Our main purpose for creating this website is to assist individuals who would like to start gardening but do not know where to begin, as well as those who already have a garden and want to improve its quality and yield. We aim to make the website helpful by providing easy access to helpful information and tips. It does not matter if someone is starting from scratch, already has a garden, is a busy person, or manages crops—the platform will help them find solutions easily and quickly. 
 
@@ -16,7 +16,7 @@ In addition, our website will cater to diverse gardening needs. From specific ti
 
 Our website will be built using Astro and DaisyUI, these frameworks allow for fast, modular development. They are designed to handle repetitive structures, which will allow our website to dynamically display gardening information that a user needs. 
 
-# Repositories
+### Repositories
 
 > [`/home`](https://github.com/cscd488tGroup3/home/ "our homepage") our homepage
 >
