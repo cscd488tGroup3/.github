@@ -18,9 +18,9 @@ Our website will be built using Astro and DaisyUI, these frameworks allow for fa
 
 ### Repositories
 
-| Repo                                                                                          | Description                        | Visibility |
-| :-------------------------------------------------------------------------------------------- | :--------------------------------: | ---------: |
-| [`/home`](https://github.com/cscd488tGroup3/home/ "our homepage")                             |             our homepage           |     public |
-| [`/database`](https://github.com/cscd488tGroup3/database/ "our database (private)")           |             our database           |    private |
-| [`/env`](https://github.com/cscd488tGroup3/env/ "our secrets (private)")                      |             our secrets            |    private |
-| [`/.github`](https://github.com/cscd488tGroup3/.github/ "our repository configuration files") | our repository configuration files |     public |
+| Repo | Description | Visibility |
+| :-------------------------------------------------------------------------------------------- | :--------------------------------- | :--------- |
+| [`/home`](https://github.com/cscd488tGroup3/home/ "our homepage")                             | our homepage | public |
+| [`/database`](https://github.com/cscd488tGroup3/database/ "our database (private)")           | our database | private |
+| [`/env`](https://github.com/cscd488tGroup3/env/ "our secrets (private)")                      | our secrets | private |
+| [`/.github`](https://github.com/cscd488tGroup3/.github/ "our repository configuration files") | our repository configuration files | public |
